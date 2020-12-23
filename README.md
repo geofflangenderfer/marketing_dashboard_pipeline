@@ -2,4 +2,4 @@
 Goal is to provide a client reporting solution. It should make clear the value of marketing spend with understandable reports.
 
 ## Architechture
-![](architecture.png)
+![](./architechture.png)
