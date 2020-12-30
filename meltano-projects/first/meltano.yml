@@ -1,0 +1,8 @@
+version: 1
+send_anonymous_usage_stats: true
+project_id: 2c07d9fe-976c-4e04-85c0-0067f1c3728e
+plugins:
+  extractors:
+  - name: tap-facebook
+    variant: meltano
+    pip_url: git+https://gitlab.com/meltano/tap-facebook.git
